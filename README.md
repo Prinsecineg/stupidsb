@@ -1,1 +1,1 @@
-# stupidsb
+# stupidsb.github.io
