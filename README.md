@@ -1,1 +1,2 @@
-# stupidsb.github.io
+# stupid sound board
+## summer program code along
